@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi there 👋
+
 My name is Aman Agrawal and I am a student at IIT Roorkee. I am into the field of Machine Learning , Deep Learning and AI , likes mathematics.
 I do technical blog writing on machine learning and deep learning concepts on medium (profile pinned below to reach out there).
 
