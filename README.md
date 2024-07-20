@@ -1,13 +1,17 @@
 ## Hi there 👋
 
 My name is Aman Agrawal and I am a student at IIT Roorkee. I am into the field of Machine Learning , Deep Learning and AI , likes mathematics.
-I do technical blog writing on machine learning and deep learning concepts on medium (profile pinned below to reach out there).
+I have built projects in this domain and also pocess relavnet industry experience in DL/ML/AI.
+I also do technical blog writing on machine learning and deep learning concepts on medium (profile pinned below to reach out there).
 
 Work Experience:
 
 AI Intern at Suryavanshi Ventures
+
 - worked on NLP projects using LLMs in the company.
+  
 AI Research Intern at Modern Monk Labs.
+
 - working on multimodality tech , transformers centric.
 
 Reach out to me!
