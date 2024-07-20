@@ -13,7 +13,9 @@ AI Research Intern at Modern Monk Labs.
 Reach out to me!
 
 🕊️ Twitter : @0xr4plh 
+
 📬 Email : amannagrawall002@gmail.com
+
 💬 Medium : https://medium.com/@amannagrawall002
 
 
