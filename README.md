@@ -6,17 +6,15 @@ I also do technical blog writing on machine learning and deep learning concepts 
 
 Work Experience:
 
-AI Intern at [Suryavanshi Ventures](https://suryavanshi.io/)
+Ex - AI Intern at [Suryavanshi Ventures](https://suryavanshi.io/)
 
 - worked on NLP projects using LLMs in the company.
   
-AI Research Intern at [Modern Monk Labs.](https://modernmonklabs.com/)
+EX - ML Research Intern at [Modern Monk Labs.](https://modernmonklabs.com/)
 
 - working on multimodality tech , transformers centric.
 
 Reach out to me!
-
-🕊️ Twitter : @0xr4plh 
 
 📬 Email : amannagrawall002@gmail.com
 
