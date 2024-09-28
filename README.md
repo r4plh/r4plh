@@ -14,7 +14,7 @@ Ex - ML Research Intern at [Modern Monk Labs.](https://modernmonklabs.com/)
 
 - working on multimodality tech , transformers centric.
 
-📬 Email : amannagrawall002@gmail.com
+Email : amannagrawall002@gmail.com
 
 
 
