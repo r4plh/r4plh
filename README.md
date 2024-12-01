@@ -9,10 +9,6 @@ Work Experience:
 Ex - AI Intern at [Suryavanshi Ventures](https://suryavanshi.io/)
 
 - worked on NLP projects using LLMs in the company.
-  
-Ex - ML Research Intern at [Modern Monk Labs.](https://modernmonklabs.com/)
-
-- working on multimodality tech , transformers centric.
 
 📫 Email : amannagrawall002@gmail.com
 
