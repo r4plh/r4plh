@@ -1,14 +1,18 @@
 ## Hi there 
 
-My name is Aman Agrawal and I am a student at IIT Roorkee. I am into the field of Machine Learning , Deep Learning and AI , likes mathematics.
-I have built projects in this domain and also pocess relavent industry experience in DL/ML/AI.
-I also do technical blog writing on machine learning and deep learning concepts on medium 
+Hi, I'm Aman Agrawal!
+
+I always have a lot to write, when it comes to machine learning and related stuff! Mostly you'll find me reading or sharing my learnings on topics related to AI. I like to think and solve problems via a First Principles thinking approach.
+
+I have built projects in the field of NLP and GenAI. I have industry experience in the AI domain through my internships in the NLP and GenAI field. I believe in the concept of build-in-public, so you'll find me an active guy on platforms like [Medium](https://medium.com/@amannagrawall002), [Twitter](https://x.com/r4plh), and [LinkedIn](https://www.linkedin.com/in/r4plh/) learning and sharing knowledge.
+
+I write articles on topics related to Data Science, ML/AI on Medium. Please feel free to see my work here! To connect via mail - amannagrawall002@gmail.com
 
 Work Experience:
 
-Ex - AI Intern at [Suryavanshi Ventures](https://suryavanshi.io/)
+Machine Learning Intern at [JobTwine](https://www.jobtwine.com/) (Dec 2024 - Present)
 
-- worked on NLP projects using LLMs in the company.
+AI Intern at [Suryavanshi Ventures](https://suryavanshi.io/) (Jan 2024 - July 2024)
 
 📫 Email : amannagrawall002@gmail.com
 
